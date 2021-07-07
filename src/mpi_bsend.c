@@ -1,4 +1,4 @@
-//This code was found here https://www.rookiehpc.com/mpi/docs/mpi_isend.php
+//This code was found here https://www.rookiehpc.com/mpi/docs/mpi_bsend.php
     #include <stdio.h>
     #include <stdlib.h>
     #include <mpi.h>
