@@ -3,7 +3,7 @@ This repository contains examples of OTF2 traces and the resulting CTF traces af
 The codes for the examples have been found on [CodinGame](https://www.codingame.com) and [RookieHPC](https://www.rookiehpc.com/) and are available in the ```src``` directory.  
 The resulting traces are in the ```traces``` directory, there are 4 differents programs and corresponding traces: 
 - One program with 2 nodes and a Mpi_Bsend/Recv routine
-- One program with 2 nodes and a Mpi_Isend/Irecv routine
+- One program with 2 nodes and a Mpi_Ssend/Irecv routine
 - One program with 4 nodes and a Mpi_Gather routine
 - One program with 8 nodes : 2 communicators are created and an allreduce operation is called in both of them
 
